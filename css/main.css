@@ -1,0 +1,14 @@
+.newcontainer {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0px;
+	height: 1000px;
+}
+.header {
+	background-color: #000;
+	height: 40px;
+	width: 960px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
